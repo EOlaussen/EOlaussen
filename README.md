@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @EOlaussen
+- 🌱 I’m currently learning AI
